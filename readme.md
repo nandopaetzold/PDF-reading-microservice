@@ -14,7 +14,7 @@ Este micro serviço tem como objetivo ler um arquivo PDF e retornar o texto espe
 ```json
 {
     "Content-Type: application/json",
-    "Authorization: Token: {token}"
+    "Authorization: Token {token}"
 }
 ```
 
