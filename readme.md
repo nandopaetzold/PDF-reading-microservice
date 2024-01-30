@@ -10,10 +10,13 @@ Este micro serviço tem como objetivo ler um arquivo PDF e retornar o texto espe
 
 ## Endpoint: http://localhost
 ## Metodo: POST
-## Header: [
+## Header: 
+```json
+{
     "Content-Type: application/json",
     "Authorization: Token: {token}"
-]
+}
+```
 
 ## Body: 
 ```json
