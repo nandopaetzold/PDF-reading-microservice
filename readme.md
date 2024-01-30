@@ -21,7 +21,7 @@ Este micro serviço tem como objetivo ler um arquivo PDF e retornar o texto espe
     "data": "base64"
 }
 ```
-
+## Exemplo de retorno:
 ```json
 {
     "placas": {
