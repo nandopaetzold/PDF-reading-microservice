@@ -1,4 +1,4 @@
-## Micro Serviço para leitura de PDF - ADAPTADO PARA O PROJETO PORTUARIO
+## Micro Serviço para leitura de PDF - ADAPTADO AO PROJETO PORTUARIO
 
 ----------------------------------------------------------------------------
 
