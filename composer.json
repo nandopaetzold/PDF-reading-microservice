@@ -1,0 +1,25 @@
+{
+    "name": "nyash/come-and-go",
+    "autoload": {
+        "psr-4": {
+            "Nyash\\ComeAndGo\\": "src/",
+            "App\\": "App/",
+            "App\\Models\\": "App/Models/",
+            "App\\Controllers\\": "App/Controllers/",
+            "App\\Middlewares\\": "App/Middlewares/",
+            "App\\Services\\": "App/Services/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bnjunge",
+            "email": "survtechke@gmail.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12",
+        "spatie/async": "^1.6",
+        "spatie/pdf-to-image": "^1.2",
+        "smalot/pdfparser": "^2.8"
+    }
+}
